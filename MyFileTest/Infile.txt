@@ -1,0 +1,4 @@
+dog 16
+bird 90
+cow 1000
+horse 0
